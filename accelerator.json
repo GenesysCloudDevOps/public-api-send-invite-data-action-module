@@ -1,0 +1,21 @@
+{
+    "id": "845555ef-8522-4428-8df7-55a53f909b65",
+    "name": "Send Invite Data Action Module",
+    "description": "A Terraform/CX as Code remote module for the following Genesys Cloud public API operation: Send Invite",
+    "origin": "genesys",
+    "type": "module",
+    "classification": "",
+    "tags": [],
+    "permissions": [],
+    "products": [
+        "Quality Assurance and Compliance"
+    ],
+    "documentation": [],
+    "presentation": [
+        {
+            "title": "Page 1",
+            "description": "Please enter the fields below",
+            "fields": []
+        }
+    ]
+}
